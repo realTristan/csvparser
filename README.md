@@ -1,6 +1,4 @@
 # csvparser ![Stars](https://img.shields.io/github/stars/realTristan/csvparser?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/csvparser?label=Watchers)
-CSV File Parser in C
-
 ![Logstash-CSV_-Import-Parse-Your-Data](https://github.com/realTristan/csvparser/assets/75189508/bebb2481-ed6f-4565-bb33-00b8e9f3f3b9)
 
 # License
